@@ -10,8 +10,7 @@ url: "https://slicesoftware.github.io" # the base hostname & protocol for your s
 github_username:  jns
 author:
   name     : "Joshua Shapiro"
-  avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
+  bio      : "Software Architecture and Design"
   location : "San Diego, CA USA"
 
 # Build settings
