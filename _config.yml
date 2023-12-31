@@ -1,12 +1,18 @@
 # Site settings
 
 title: Slice Software
+logo: "/assets/images/slice_logo.jpg"
 email: joshua.shapiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Insights and ruminations on software development.
 baseurl: "/slicesite" # the subpath of your site, e.g. /blog
 url: "https://slicesoftware.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jns
+author:
+  name     : "Joshua Shapiro"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "San Diego, CA USA"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
