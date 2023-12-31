@@ -4,8 +4,8 @@ title: Slice Software
 email: joshua.shapiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Insights and ruminations on software development.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/slicesite" # the subpath of your site, e.g. /blog
+url: "https://slicesoftware.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jns
 
 # Build settings
